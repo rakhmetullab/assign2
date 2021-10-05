@@ -1,0 +1,45 @@
+body{
+	background-color: #4287f5;
+  }
+
+.pill-nav a {
+  display: inline-block;
+  color: black;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.pill-nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.pill-nav a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+h3{
+	font-family: cursive, Bradley Hand !important;
+}
+p3{
+color: #c4c4c4;
+}
+h1{
+color: #FFF101 !important;
+    font-family: cursive, Bradley Hand !important;
+
+}
+h2{
+    font-family: cursive, Bradley Hand !important;
+    color: #FFF101 !important;
+
+}
+.kl{
+background-color: rgb(23, 74, 102)
+}
+.lk{
+  background-color: rgb(23, 74, 102)
+
+}
